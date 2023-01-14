@@ -1,1 +1,1 @@
-[ ]
+[ { "title": "Nuget Restore vs Dotnet Restore in .NET Project", "url": "/2023/01/nuget-restore-vs-dotnet-restore/", "categories": ".NET, Visual Studio", "tags": "Packages Management", "date": "2023-01-12 00:00:00 +0900", "snippet": "Restore NuGet PackagesPackage Restore installs the direct dependencies of a project as needed and then installs any dependencies of those packages throughout the entire dependency graph.Restore command only adds packages to the disk; it does not change a project’s dependencies. To change a proje..." } ]
