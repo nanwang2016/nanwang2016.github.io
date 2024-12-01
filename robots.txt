@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://nanwang2016.github.io/sitemap.xml
+Sitemap: /sitemap.xml
